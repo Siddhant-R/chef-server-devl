@@ -1,3 +1,12 @@
+# Welcome to the chef-server-devl wiki!
+This REPO is NOT maintained by chef.
+###WARNING
+I am writing down some fixes to chef server source for some of the common issues that I have encountered.
+Although I test this locally, solutions might not be done in the correct ethical way. This might break chef and this is no way meant to be used at production. Use this at your own risk.
+
+## All resolved Issues are at wiki https://github.com/Siddhant-R/chef-server-devl/wiki
+
+#Original Documentation 
 # Chef Server
 
 This repository is the central repository for the Chef server.
